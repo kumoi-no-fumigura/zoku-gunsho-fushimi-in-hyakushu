@@ -1,5 +1,5 @@
 {
- "work": "伏見院御百首（続群書類従本）",
+ "work": "伏見院御百首（国立公文書館蔵写本 底本）",
  "work_id": "zoku-gunsho-fushimi-in-hyakushu",
  "repo": "kumoi-no-fumigura/zoku-gunsho-fushimi-in-hyakushu",
  "yomi": "ふしみいんおんひゃくしゅ",
@@ -9,7 +9,7 @@
   "kind": "百首歌",
   "era": "鎌倉後期",
   "author": "伏見院",
-  "desc": "京極派の歌人として知られる伏見院の百首。春20首から始まり、題を示さずに歌を連ねる。"
+  "desc": "京極派の歌人として知られる伏見院の百首。春20首から始まり、題を示さずに歌を連ねる。この本文は国立公文書館蔵写本を底本とする。底本の違う本文を「伏見院御百首（列聖全集 底本）」として別に収める。"
  },
  "editions": [
   {
@@ -1731,7 +1731,7 @@
  ],
  "catalog": {
   "work_id": "zoku-gunsho-fushimi-in-hyakushu",
-  "work": "伏見院御百首",
+  "work": "伏見院御百首（国立公文書館蔵写本 底本）",
   "yomi": "ふしみいんおんひゃくしゅ",
   "category": "定数歌",
   "order": 0,
@@ -1744,6 +1744,6 @@
   "yaku": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T09:21:05+09:00"
+  "updated_at": "2026-10-30T09:05:14+09:00"
  }
 }
